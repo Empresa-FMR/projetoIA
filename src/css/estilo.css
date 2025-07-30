@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: antiquewhite;
+}
+header{
+    width: 100%;
+    height: 150px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+#logo{
+    margin: auto;
+}
+#logo img{
+    height: 125px;
+}
+#links{
+    margin: auto;
+}
+#pesquisa{
+    margin: auto;
+}
