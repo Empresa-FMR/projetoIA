@@ -1,3 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: #DDEACE;
+}
+header{
+    width: 100%;
+    height: 150px;
+    background-color: #BAD59A;
+    display: flex;
+    justify-content: space-evenly;
+}
 #logo{
-    color:#BAD59A;
+    margin: auto;
+}
+#logo img{
+    height: 125px;
+}
+#links{
+    margin: auto;
+}
+#pesquisa{
+    margin: auto;
+}
+.title{
+    color: #96BF67;
 }
