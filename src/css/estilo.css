@@ -12,16 +12,25 @@ header{
     height: 150px;
     background-color: #BAD59A;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 #logo{
     margin: auto;
 }
 #logo img{
     height: 125px;
+    
 }
 #links{
     margin: auto;
+}
+#links a{
+    margin-left: 60px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 1.6rem;
+    
 }
 #pesquisa{
     margin: auto;
